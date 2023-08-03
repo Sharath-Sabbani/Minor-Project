@@ -54,7 +54,7 @@ The need for crop price prediction is helpful for risk management and decision m
 - [@Adithya](https://github.com/Adithya270-Glitch)
 - [@Nithish](https://github.com/Nithish236)
 - [@Inamul Fayaz](https://github.com/INAMULFAYAZWAIDA2001)
-- [@Sriya Reddy](https://www.github.com/)
+- [@Sriya Reddy](https://github.com/SriyaReddy24)
 - [@Sowmika](https://github.com/sowmika2)
 
 ## 
