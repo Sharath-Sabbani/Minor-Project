@@ -33,7 +33,7 @@ The need for crop price prediction is helpful for risk management and decision m
 - Crop details forecasted using Machine Learning Model.
 - Annual Rainfall, WPI(Wholesale Price Index) datasets are used for training the model.
 - Crop price prediction with 70-80% accuracy.
-- Model trained on authenticated datasets provided by [data.gov.in](https://data.gov.in/search)
+- Model trained on authenticated datasets provided by [data.gov.in](https://data.gov.in/search),  [eands.dacnet.nic.in](https://eands.dacnet.nic.in/) and [hydro.imd.gov.in](https://hydro.imd.gov.in/hydrometweb/(S(npnolk45d3a3qnyn52lwfsv5))/landing.aspx)
 - Detailed Analysis of crop prices using tables and graphs.
 - Prediction of data is done by using Multiple Linear Regression Technique.
   
